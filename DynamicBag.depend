@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521304865 source:c:\users\carolyne\desktop\c++ programs\dynamicbag\main.cpp
+	<iostream>
+	"bag.h"
+
+1521307238 c:\users\carolyne\desktop\c++ programs\dynamicbag\bag.h
+	<cstdlib>
+
